@@ -8,12 +8,12 @@ int main()
  setlocale(LC_ALL, "");
  int g;
  
- cout << "Выбирите задачу ";
+ cout << "Выберите задачу ";
  cin >> g;
  
  if (g == 1)
  {
-  cout << "выбрана первая задача" << endl;
+  cout << "Выбрана первая задача" << endl;
 
   double x1, p, y, a, b;
 
